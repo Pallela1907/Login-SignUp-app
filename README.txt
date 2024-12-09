@@ -47,8 +47,6 @@ When logging in, check Remember Me to save credentials locally for auto-fill dur
 🧩 Folder Structure
 Here’s the current folder structure for easy navigation:
 
-public 
-    - index.html
 src 
     components
         forms
